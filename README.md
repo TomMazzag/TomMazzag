@@ -8,7 +8,7 @@
 
 <h3 align="left">Coding challenges:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/TomMazzag" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/63503fd3823762323d600de6_favicon.ico" alt="thomas-mazzag" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/TomMazzag" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="thomas-mazzag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
