@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-- 🔭 I’m currently working on a web development project (https://github.com/TomMazzag//OCProject5)
+- 🔭 Take a look at some of the projects I'm working on in the pinned section!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
