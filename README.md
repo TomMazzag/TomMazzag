@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 - Currently working on: A social media app for music 🚀
+ </br>
 - 🔭 Take a look at some of the other projects I'm working on in the pinned section!
 
 <h3 align="left">Connect with me:</h3>
