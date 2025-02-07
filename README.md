@@ -8,12 +8,6 @@
 <a href="https://linkedin.com/in/thomas-mazzag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-mazzag" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Coding challenges:</h3>
-<p align="left">
-<a href="https://www.codewars.com/users/TomMazzag" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="thomas-mazzag" height="40" width="40" /></a>
-<a href="https://leetcode.com/TomMazzag/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="thomas-mazzag" height="40" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> </a>
